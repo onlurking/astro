@@ -1,5 +1,12 @@
 # astro
 
+## 0.18.5
+
+### Patch Changes
+
+- Updated dependencies [cd2b5df]
+  - @astrojs/parser@0.18.5
+
 ## 0.18.4
 
 ### Patch Changes
